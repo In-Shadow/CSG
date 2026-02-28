@@ -1,2 +1,2 @@
-# CSG
-SG_CYR
+Start
+The place which the dream had started.
